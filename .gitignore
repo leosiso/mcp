@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.vault/
+*.key
+*.db
+*.db-wal
+*.db-shm
+*.tmp
+vault_dump_*.json
